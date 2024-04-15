@@ -1,2 +1,4 @@
 # Salon
-Project for freecodecamp about an bauty salon with a menu make in bash to schedule a appointment saving the info in a database
+freecodecamp project about a beauty salon to schedule appointments with bash code and save the information in a database.
+
+proyecto de freecodecamp sobre un salon de belleza para agendar citas con codigo bash y guardar la informacion en una base de datos.
